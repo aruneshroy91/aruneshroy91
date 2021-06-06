@@ -1,4 +1,4 @@
-### Hi 👋
+### Hi, welcome to my GitHub.
 
 <!--
 **aruneshroy91/aruneshroy91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
